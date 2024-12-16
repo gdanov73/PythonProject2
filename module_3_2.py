@@ -3,7 +3,7 @@ def send_email(message:str, recipient:str, sender="university,help@gmail.com") :
         print("Невозможно отправить письмо с адреса " + sender + " на адрес "+recipient+".") # печать результата
         return # возврат значения
     if sender == recipient : # проверка условия
-        print( "Нельзя отправить письм=о самому себе!") # печать результата проверки
+        print( "Нельзя отправить письмо самому себе!") # печать результата проверки
         return # возврат значения
     if sender == "university,help@gmail.com" : # проверка условия
         print( "Письмо успешно отправлено с адреса " + sender + " на адрес "+recipient+".") # печать результата проверки
