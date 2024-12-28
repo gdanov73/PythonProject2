@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ef7fd2-ee66-45f9-b687-aaac54436349" name="Changes" comment="модуль 3.3">
-      <change afterPath="$PROJECT_DIR$/module_3_4.py" afterDir="false" />
+    <list default="true" id="e2ef7fd2-ee66-45f9-b687-aaac54436349" name="Changes" comment="module_3_6.py">
+      <change afterPath="$PROJECT_DIR$/module_4_1/Name_space.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_4_1/module_3_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +53,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Class.executor": "Debug",
+    "Python.Name_space.executor": "Run",
+    "Python.fake_math.executor": "Run",
     "Python.main.executor": "Run",
     "Python.main1.executor": "Debug",
     "Python.module_1_3.executor": "Run",
@@ -68,6 +71,11 @@
     "Python.module_3_2.executor": "Run",
     "Python.module_3_3.executor": "Run",
     "Python.module_3_4.executor": "Run",
+    "Python.module_3_5.executor": "Run",
+    "Python.module_3_6.executor": "Run",
+    "Python.module_4_1.executor": "Run",
+    "Python.module_4_2.executor": "Run",
+    "Python.true_math.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "ToolWindow.Run.ShowToolbar": "false",
@@ -79,6 +87,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Home\PycharmProjects\PythonProject2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Home\PycharmProjects\PythonProject2\module_4_1" />
     </key>
   </component>
   <component name="RunManager">
@@ -270,7 +281,31 @@
       <option name="project" value="LOCAL" />
       <updated>1734366185660</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="module_3_4.py">
+      <option name="closed" value="true" />
+      <created>1734536622448</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1734536622448</updated>
+    </task>
+    <task id="LOCAL-00020" summary="module_3_5.py">
+      <option name="closed" value="true" />
+      <created>1734967371724</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1734967371724</updated>
+    </task>
+    <task id="LOCAL-00021" summary="module_4_1.py">
+      <option name="closed" value="true" />
+      <created>1734968682844</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1734968682844</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,7 +326,10 @@
     <MESSAGE value="модуль 3.1" />
     <MESSAGE value="модуль 3.2" />
     <MESSAGE value="модуль 3.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="модуль 3.3" />
+    <MESSAGE value="module_3_4.py" />
+    <MESSAGE value="module_3_5.py" />
+    <MESSAGE value="module_4_1.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="module_4_1.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
