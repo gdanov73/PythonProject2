@@ -10,3 +10,5 @@ journal[students[2]]=sum(grades[2])/len(grades[2]) # -/-/-
 journal[students[3]]=sum(grades[3])/len(grades[3]) # -/-/-
 journal[students[4]]=sum(grades[4])/len(grades[4]) # -/-/-
 print(journal) # вывод среднего балла каждого студента на экран
+
+
