@@ -17,3 +17,5 @@ result2 = single_root_words('Disablement', 'Able', 'Mable', 'Disable', 'Bagel') 
 print(result1) # вывод на консоль списка 1
 
 print(result2) # вывод на консоль списка 2
+
+
