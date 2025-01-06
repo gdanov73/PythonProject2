@@ -15,7 +15,6 @@ def calculate_structure_sum(data): # создание функции
 
     return total_sum # возврат суммы
 
-
 data_structure = [
     [1, 2, 3],
     {'a': 4, 'b': 5},
@@ -26,3 +25,4 @@ data_structure = [
 
 result = calculate_structure_sum(data_structure)
 print(result)
+
