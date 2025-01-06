@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ef7fd2-ee66-45f9-b687-aaac54436349" name="Changes" comment="main" />
+    <list default="true" id="e2ef7fd2-ee66-45f9-b687-aaac54436349" name="Changes" comment="module 1.6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -481,7 +481,47 @@
       <option name="project" value="LOCAL" />
       <updated>1736142314326</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary=" main1">
+      <option name="closed" value="true" />
+      <created>1736142375808</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1736142375808</updated>
+    </task>
+    <task id="LOCAL-00045" summary="module 1.3">
+      <option name="closed" value="true" />
+      <created>1736142459229</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1736142459229</updated>
+    </task>
+    <task id="LOCAL-00046" summary="module 1.4">
+      <option name="closed" value="true" />
+      <created>1736142523649</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1736142523649</updated>
+    </task>
+    <task id="LOCAL-00047" summary="module 1.5">
+      <option name="closed" value="true" />
+      <created>1736142568685</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1736142568685</updated>
+    </task>
+    <task id="LOCAL-00048" summary="module 1.6">
+      <option name="closed" value="true" />
+      <created>1736142636989</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1736142636989</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -496,11 +536,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="модуль 3.1" />
-    <MESSAGE value="модуль 3.2" />
-    <MESSAGE value="модуль 3.3" />
-    <MESSAGE value="module_3_4.py" />
-    <MESSAGE value="module_3_5.py" />
     <MESSAGE value="module_4_1.py" />
     <MESSAGE value="module_3_6.py" />
     <MESSAGE value="module_5_2.py" />
@@ -521,6 +556,11 @@
     <MESSAGE value="class" />
     <MESSAGE value="Name space" />
     <MESSAGE value="main" />
-    <option name="LAST_COMMIT_MESSAGE" value="main" />
+    <MESSAGE value=" main1" />
+    <MESSAGE value="module 1.3" />
+    <MESSAGE value="module 1.4" />
+    <MESSAGE value="module 1.5" />
+    <MESSAGE value="module 1.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="module 1.6" />
   </component>
 </project>
