@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ef7fd2-ee66-45f9-b687-aaac54436349" name="Changes" comment="module 2.6" />
+    <list default="true" id="e2ef7fd2-ee66-45f9-b687-aaac54436349" name="Changes" comment="module 3.6">
+      <change beforePath="$PROJECT_DIR$/module_5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -393,7 +395,39 @@
       <option name="project" value="LOCAL" />
       <updated>1736140205845</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="module 3.2">
+      <option name="closed" value="true" />
+      <created>1736140281573</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1736140281573</updated>
+    </task>
+    <task id="LOCAL-00034" summary="module 3.4">
+      <option name="closed" value="true" />
+      <created>1736140349627</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1736140349627</updated>
+    </task>
+    <task id="LOCAL-00035" summary="module 3.5">
+      <option name="closed" value="true" />
+      <created>1736140414022</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1736140414022</updated>
+    </task>
+    <task id="LOCAL-00036" summary="module 3.6">
+      <option name="closed" value="true" />
+      <created>1736140495976</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1736140495976</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -425,17 +459,10 @@
     <MESSAGE value="module_3_2.py" />
     <MESSAGE value="module_2_6" />
     <MESSAGE value="module 2.6" />
-    <option name="LAST_COMMIT_MESSAGE" value="module 2.6" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/module_3_4.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="module 3.2" />
+    <MESSAGE value="module 3.4" />
+    <MESSAGE value="module 3.5" />
+    <MESSAGE value="module 3.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="module 3.6" />
   </component>
 </project>
