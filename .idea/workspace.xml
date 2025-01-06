@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ef7fd2-ee66-45f9-b687-aaac54436349" name="Changes" comment="module_5_1.py">
-      <change beforePath="$PROJECT_DIR$/module_3_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_2.py" afterDir="false" />
-    </list>
+    <list default="true" id="e2ef7fd2-ee66-45f9-b687-aaac54436349" name="Changes" comment="module 2.6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -363,7 +361,39 @@
       <option name="project" value="LOCAL" />
       <updated>1736139838190</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="module_3_2.py">
+      <option name="closed" value="true" />
+      <created>1736139932772</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1736139932772</updated>
+    </task>
+    <task id="LOCAL-00030" summary="module_2_6">
+      <option name="closed" value="true" />
+      <created>1736140031348</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1736140031348</updated>
+    </task>
+    <task id="LOCAL-00031" summary="module_2_6">
+      <option name="closed" value="true" />
+      <created>1736140128106</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1736140128106</updated>
+    </task>
+    <task id="LOCAL-00032" summary="module 2.6">
+      <option name="closed" value="true" />
+      <created>1736140205845</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1736140205845</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -392,7 +422,10 @@
     <MESSAGE value="module_5_3.py" />
     <MESSAGE value="module_2_2.py" />
     <MESSAGE value="module_5_1.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="module_5_1.py" />
+    <MESSAGE value="module_3_2.py" />
+    <MESSAGE value="module_2_6" />
+    <MESSAGE value="module 2.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="module 2.6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
