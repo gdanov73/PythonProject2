@@ -18,3 +18,5 @@ print(result1) # вывод на экран результата
 print(result2) # -//-//-
 
 print(result3) # -//-//-
+
+
