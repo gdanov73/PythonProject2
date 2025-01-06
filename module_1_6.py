@@ -16,3 +16,6 @@ my_set.add('string')
 my_set.add('cosmos') # добавляем 2 элемента
 my_set.remove("ball") # удаляем 1 элемент
 print(my_set)
+
+
+
