@@ -13,3 +13,6 @@ for i in numbers : # начало цикла
         primes.append(i) # всставка элемента в список с простыми числами
 print("Primes:",primes) # вывод на экран списка простых чисел
 print("Not Primes:",not_primes) # вывод на экран списка составных чисел
+
+
+
