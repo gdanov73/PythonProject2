@@ -17,59 +17,49 @@ class House:
             else:
                 print('Такого этажа не существует')
 
-    # 6. Дополняем класс House методом возврата кол-ва этажей здания self.number_of_floors
     def __len__(self):
-        return self.number_of_floors
-
-    # 7. Дополняем класс House методом возврата строки: "Название: <название>, кол-во этажей: <этажи>"
+        return self.number_of_floors #  в методе возвращает кол-во этажей
     def __str__(self):
-        return f'Название: {self.name}, кол-во этажей: {self.number_of_floors}.'
+        return f'Название: {self.name}, кол-во этажей: {self.number_of_floors}.' # метод возвращает строку с данными класса
 
-    # Дополняем класс House следующими специальными методами:
-    # 1. Методом сравнения на равенства: возвращаем True, если количество этажей self == other
-    def __eq__(self, other):
+    def __eq__(self, other): # метод сравнения на равенство объектов класса House
         if isinstance(other, House):
             return self.number_of_floors == other.number_of_floors
         else:
             return False
 
-    # 2.1. Методом сравнения "меньше чем" (Lower than)
-    def __lt__(self, other):
+    def __lt__(self, other): # метод сравнения на "меньше"
         if isinstance(other, House):
             return self.number_of_floors < other.number_of_floors
         else:
             return NotImplemented
 
-    # 2.2. Методом сравнения "меньше или равно"
-    def __le__(self, other):
+    def __le__(self, other): # метод сравнения "меньше или равно"
         if isinstance(other, House):
             return self.number_of_floors <= other.number_of_floors
         else:
             return NotImplemented
 
-    # 2.3. Методом сравнения "больше чем" (Greater than)
-    def __gt__(self, other):
+    def __gt__(self, other): # метод сравнения "больше чем"
         if isinstance(other, House):
             return self.number_of_floors > other.number_of_floors
         else:
             return NotImplemented
 
-    # 2.4. Методом сравнения "больше или равно"
-    def __ge__(self, other):
+    def __ge__(self, other): # метод сравнения "больше или равно"
         if isinstance(other, House):
             return self.number_of_floors >= other.number_of_floors
         else:
             return NotImplemented
 
     # 2.5. Методом сравнения на неравенство
-    def __ne__(self, other):
+    def __ne__(self, other): # метод сравнения на неравенство
         if isinstance(other, House):
             return self.number_of_floors != other.number_of_floors
         else:
             return True
 
-    # 3. Методом добавления элемента в множество
-    def __add__(self, value):
+    def __add__(self, value): # метод добавления элемента
         if isinstance(value, int):
             return House(self.name, self.number_of_floors + value)
         elif isinstance(value, House):
@@ -77,22 +67,17 @@ class House:
         else:
             return NotImplemented
 
-    # 4.1. Методом симметричного сложения
-    def __radd__(self, value):
+    def __radd__(self, value): # метод симметричного сложения
         return self.__add__(value)
 
-    # 4.2. Методом сложения с присваиванием +=
-    def __iadd__(self, value):
+    def __iadd__(self, value): # метод сложения с присваиванием
         return self.__add__(value)
 
+h1 = House('ЖК Эльбрус', 10) # создаем элемент класса House
+h2 = House('ЖК Акация', 20) # -//-//-
 
-#  5. Создаем объект класса House с названием и количеством этажей из примера.
-h1 = House('ЖК Эльбрус', 10)
-h2 = House('ЖК Акация', 20)
-
-# Вывод на консоль:
-print(h1)
-print(h2)
+print(h1) # выод на экран результатов
+print(h2) # -//-//
 
 print(h1 == h2)  # __eq__
 
