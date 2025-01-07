@@ -1,24 +1,18 @@
-#  1. Создаем класс House.
-class House:
-    #  2. Внутри класса House определяем метод __init__, в который передадаем название и кол-во этажей.
-    def __init__(self, name, number_of_floors):
-        #  3. Внутри метода __init__ создаем атрибуты объекта self.name и self.number_of_floors,
-        #  присваиваем им переданные значения.
-        self.name = name
-        self.number_of_floors = number_of_floors
+class House: # создание класса House
+    def __init__(self, name, number_of_floors): # создание метода __init__
+        self.name = name # имя ЖК
+        self.number_of_floors = number_of_floors # кол-во этажей
 
     #  4. Создаем метод go_to с параметром new_floor и записываем логику внутри него на основе описания задачи 5_1.
-    def go_to(self, new_floor):
-        #  Если же new_floor больше чем self.number_of_floors или меньше 1,
-        #  то вывести строку "Такого этажа не существует".
-        if 1 < new_floor < self.number_of_floors:
+    def go_to(self, new_floor): # метод go_to
+        if 1 < new_floor < self.number_of_floors: #  проверка условия
             for i in range(1, new_floor + 1):
-                print(i)
+                print(i) # вывод на экран результата
             else:
-                print('Такого этажа не существует')
+                print('Такого этажа не существует') # -//-//-
 
     def __len__(self):
-        return self.number_of_floors #  в методе возвращает кол-во этажей
+        return self.number_of_floors #   метод возвращает кол-во этажей
     def __str__(self):
         return f'Название: {self.name}, кол-во этажей: {self.number_of_floors}.' # метод возвращает строку с данными класса
 
