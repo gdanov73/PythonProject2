@@ -3,7 +3,6 @@ class House: # создание класса House
         self.name = name # имя ЖК
         self.number_of_floors = number_of_floors # кол-во этажей
 
-    #  4. Создаем метод go_to с параметром new_floor и записываем логику внутри него на основе описания задачи 5_1.
     def go_to(self, new_floor): # метод go_to
         if 1 < new_floor < self.number_of_floors: #  проверка условия
             for i in range(1, new_floor + 1):
