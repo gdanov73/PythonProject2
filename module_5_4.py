@@ -48,28 +48,24 @@ class House: #
             self.number_of_floors += value
             return self
 
-    houses_history = [] #
+    houses_history = [] # создание атрибута houses_history
 
-    def __new__(cls, *args): #
-        cls.houses_history.append(args[0])
+    def __new__(cls, *args): # метод __new__ вызывается перед методом  __init__
+        cls.houses_history.append(args[0]) # добавляем объект в атрибут houses_history
         return object.__new__(cls)
 
-    def __init__(self, name, number_of_floors): #
-        self.name = name
-        self.number_of_floors = number_of_floors
-
-    def __del__(self): #
+    def __del__(self): # вывод сообщения об удалении объекта
         print(f'{self.name} снесен, но он останется в истории')
 
 
-h1 = House('ЖК Эльбрус', 10) #
-print(House.houses_history) #
-h2 = House('ЖК Акация', 20)  #
-print(House.houses_history) #
-h3 = House('ЖК Матрёшки', 20) #
-print(House.houses_history) #
+h1 = House('ЖК Эльбрус', 10) # создание объекта h1
+print(House.houses_history) # вывод на экран
+h2 = House('ЖК Акация', 20)  # -//-//-  h2
+print(House.houses_history) # -//-//-
+h3 = House('ЖК Матрёшки', 20) #  -//-//-  h3
+print(House.houses_history) # -//-//-
 
 del h2 # удаление объектов
 del h3 #-//-//-
 
-print(House.houses_history) #
+print(House.houses_history) # печать истории существующих объектов
