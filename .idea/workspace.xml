@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ef7fd2-ee66-45f9-b687-aaac54436349" name="Changes" comment="module 2.5">
-      <change afterPath="$PROJECT_DIR$/module_5_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    <list default="true" id="e2ef7fd2-ee66-45f9-b687-aaac54436349" name="Changes" comment="module 5.4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_5_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,22 +141,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732363170006</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Task1">
-      <option name="closed" value="true" />
-      <created>1732436111280</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1732436111280</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Task1">
-      <option name="closed" value="true" />
-      <created>1732436697560</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1732436697560</updated>
     </task>
     <task id="LOCAL-00006" summary="Task2">
       <option name="closed" value="true" />
@@ -536,7 +518,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736142883275</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="module 5.3">
+      <option name="closed" value="true" />
+      <created>1736250210995</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1736250210995</updated>
+    </task>
+    <task id="LOCAL-00054" summary="module 5.4">
+      <option name="closed" value="true" />
+      <created>1736250832180</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1736250832180</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -551,7 +549,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="module_2_2.py" />
     <MESSAGE value="module_5_1.py" />
     <MESSAGE value="module_3_2.py" />
     <MESSAGE value="module_2_6" />
@@ -562,7 +559,6 @@
     <MESSAGE value="module 3.6" />
     <MESSAGE value="module 5.1" />
     <MESSAGE value="module 5.2" />
-    <MESSAGE value="module 5.3" />
     <MESSAGE value="module 4.1" />
     <MESSAGE value="class" />
     <MESSAGE value="Name space" />
@@ -576,6 +572,8 @@
     <MESSAGE value="module 2.3" />
     <MESSAGE value="module 2.4" />
     <MESSAGE value="module 2.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="module 2.5" />
+    <MESSAGE value="module 5.3" />
+    <MESSAGE value="module 5.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="module 5.4" />
   </component>
 </project>

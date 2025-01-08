@@ -46,7 +46,6 @@ class House: # создание класса House
         else:
             return NotImplemented
 
-    # 2.5. Методом сравнения на неравенство
     def __ne__(self, other): # метод сравнения на неравенство
         if isinstance(other, House):
             return self.number_of_floors != other.number_of_floors
