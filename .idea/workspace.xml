@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ef7fd2-ee66-45f9-b687-aaac54436349" name="Changes" comment="module 5.3">
-      <change afterPath="$PROJECT_DIR$/module_6_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/registration.py" afterDir="false" />
+    <list default="true" id="e2ef7fd2-ee66-45f9-b687-aaac54436349" name="Changes" comment="module 6.1">
+      <change afterPath="$PROJECT_DIR$/module_5_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_6_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,47 +51,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Class.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Name_space.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fake_math.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main1.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.module_1_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_1_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_1_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_1_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_2_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_2_3 .executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_2_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_2_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_2_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_2_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_3_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_4_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_4_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_6_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.registration.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.true_math.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;ToolWindow.Run.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Home/PycharmProjects/PythonProject2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor.code.editing&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Class.executor": "Debug",
+    "Python.Name_space.executor": "Run",
+    "Python.fake_math.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main1.executor": "Debug",
+    "Python.module_1_3.executor": "Run",
+    "Python.module_1_4.executor": "Run",
+    "Python.module_1_5.executor": "Run",
+    "Python.module_1_6.executor": "Run",
+    "Python.module_2_2.executor": "Run",
+    "Python.module_2_3 .executor": "Run",
+    "Python.module_2_3.executor": "Run",
+    "Python.module_2_4.executor": "Run",
+    "Python.module_2_5.executor": "Run",
+    "Python.module_2_6.executor": "Run",
+    "Python.module_3_1.executor": "Run",
+    "Python.module_3_2.executor": "Run",
+    "Python.module_3_3.executor": "Run",
+    "Python.module_3_4.executor": "Run",
+    "Python.module_3_5.executor": "Run",
+    "Python.module_3_6.executor": "Run",
+    "Python.module_4_1.executor": "Run",
+    "Python.module_4_2.executor": "Run",
+    "Python.module_5_1.executor": "Run",
+    "Python.module_5_2.executor": "Run",
+    "Python.module_5_3.executor": "Run",
+    "Python.module_5_4.executor": "Run",
+    "Python.module_6_1.executor": "Run",
+    "Python.module_6_2.executor": "Run",
+    "Python.registration.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.true_math.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "ToolWindow.Run.ShowToolbar": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Home/PycharmProjects/PythonProject2",
+    "settings.editor.selected.configurable": "preferences.editor.code.editing"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Home\PycharmProjects\PythonProject2" />
@@ -144,14 +146,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732363170006</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Task2">
-      <option name="closed" value="true" />
-      <created>1733638481017</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1733638481017</updated>
     </task>
     <task id="LOCAL-00014" summary="модуль 3.1">
       <option name="closed" value="true" />
@@ -537,7 +531,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736319538671</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="module 6.1">
+      <option name="closed" value="true" />
+      <created>1736603514758</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1736603514758</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -552,7 +554,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="module_5_1.py" />
     <MESSAGE value="module_3_2.py" />
     <MESSAGE value="module_2_6" />
     <MESSAGE value="module 2.6" />
@@ -577,6 +578,7 @@
     <MESSAGE value="module 2.5" />
     <MESSAGE value="module 5.4" />
     <MESSAGE value="module 5.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="module 5.3" />
+    <MESSAGE value="module 6.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="module 6.1" />
   </component>
 </project>

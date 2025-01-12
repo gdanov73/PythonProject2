@@ -14,7 +14,7 @@ class Animal: # создание класса Animal
     def __init__(self, name): #  коструктор класса Animal
         self.name = name # присвоение значения атрибуту класса Animal
     def eat(self, food: Plant): # метод кормежка
-        if food.adible == True : # проверка услоия на съедобность
+        if food.adible == True : # проверка условия на съедобность
             print(self.name+' съел '+food.name) # вывод на экран рез-та
             self.fed = True # животное накормлено
         else : # иначе
