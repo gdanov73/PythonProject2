@@ -4,10 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ef7fd2-ee66-45f9-b687-aaac54436349" name="Changes" comment="module 6.1">
+    <list default="true" id="e2ef7fd2-ee66-45f9-b687-aaac54436349" name="Changes" comment="module 6.2">
+      <change afterPath="$PROJECT_DIR$/module_5/module_5_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_5_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_6_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/module_1_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/module_1_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/module_1_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_1/module_1_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2/module_2_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_3 .py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2/module_2_3 .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2/module_2_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2/module_2_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2/module_2_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/module_3_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/module_3_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/module_3_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/module_3_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/module_3_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/module_3_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5/module_5_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5/module_5_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5/module_5_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5/module_5_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,59 +69,86 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Class.executor": "Debug",
-    "Python.Name_space.executor": "Run",
-    "Python.fake_math.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.main1.executor": "Debug",
-    "Python.module_1_3.executor": "Run",
-    "Python.module_1_4.executor": "Run",
-    "Python.module_1_5.executor": "Run",
-    "Python.module_1_6.executor": "Run",
-    "Python.module_2_2.executor": "Run",
-    "Python.module_2_3 .executor": "Run",
-    "Python.module_2_3.executor": "Run",
-    "Python.module_2_4.executor": "Run",
-    "Python.module_2_5.executor": "Run",
-    "Python.module_2_6.executor": "Run",
-    "Python.module_3_1.executor": "Run",
-    "Python.module_3_2.executor": "Run",
-    "Python.module_3_3.executor": "Run",
-    "Python.module_3_4.executor": "Run",
-    "Python.module_3_5.executor": "Run",
-    "Python.module_3_6.executor": "Run",
-    "Python.module_4_1.executor": "Run",
-    "Python.module_4_2.executor": "Run",
-    "Python.module_5_1.executor": "Run",
-    "Python.module_5_2.executor": "Run",
-    "Python.module_5_3.executor": "Run",
-    "Python.module_5_4.executor": "Run",
-    "Python.module_5_5.executor": "Run",
-    "Python.module_6_1.executor": "Run",
-    "Python.module_6_2.executor": "Run",
-    "Python.registration.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.true_math.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "ToolWindow.Run.ShowToolbar": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Home/PycharmProjects/PythonProject2",
-    "settings.editor.selected.configurable": "preferences.editor.code.editing"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Class.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Name_space.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fake_math.executor&quot;: &quot;Run&quot;,
+    &quot;Python.game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.module_1_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_1_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_1_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_1_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_3 .executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.registration.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.true_math.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;ToolWindow.Run.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Home/PycharmProjects/PythonProject2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor.code.editing&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Home\PycharmProjects\PythonProject2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Home\PycharmProjects\PythonProject2\module_5" />
+      <recent name="C:\Users\Home\PycharmProjects\PythonProject2\module_3" />
+      <recent name="C:\Users\Home\PycharmProjects\PythonProject2\module_2" />
+      <recent name="C:\Users\Home\PycharmProjects\PythonProject2\module_1" />
       <recent name="C:\Users\Home\PycharmProjects\PythonProject2" />
-      <recent name="C:\Users\Home\PycharmProjects\PythonProject2\module_4_1" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject2" />
       <option name="ENV_FILES" value="" />
@@ -127,6 +173,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.game" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -146,14 +193,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732363170006</updated>
-    </task>
-    <task id="LOCAL-00015" summary="модуль 3.1">
-      <option name="closed" value="true" />
-      <created>1734245726385</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1734245726385</updated>
     </task>
     <task id="LOCAL-00016" summary="модуль 3.1">
       <option name="closed" value="true" />
@@ -539,7 +578,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736675479282</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="module 6.2">
+      <option name="closed" value="true" />
+      <created>1736697315295</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1736697315295</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -554,7 +601,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="module_3_2.py" />
     <MESSAGE value="module_2_6" />
     <MESSAGE value="module 2.6" />
     <MESSAGE value="module 3.2" />
@@ -579,6 +625,7 @@
     <MESSAGE value="module 5.4" />
     <MESSAGE value="module 5.3" />
     <MESSAGE value="module 6.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="module 6.1" />
+    <MESSAGE value="module 6.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="module 6.2" />
   </component>
 </project>
