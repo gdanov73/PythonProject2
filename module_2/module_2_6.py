@@ -1,17 +1,17 @@
-def get_password(number): #
-    password = '' #
-    for i in range(1, number): #
-        for j in range(2, number): #
-            if j <= i: #
-                continue #
-            if number % (i + j) == 0: #
-                password += str(i) + str(j) #
-    return password #
+def get_password(number): # создание метода с параметром number
+    password = '' # создание пустой строки
+    for i in range(1, number): # внешний цикл для первого числа из пары
+        for j in range(2, number): # внутренний цикл для подборки второго числа
+            if j <= i: # сравнение чисел
+                continue # следующиф элемент в цикле
+            if number % (i + j) == 0: #  проверка деления на сумму подбираемых чисел без остатка
+                password += str(i) + str(j) #  конкатинация трок
+    return password # возврат полученного пароля
 
-n = int(input('Введите целое число от 3 до 20: ')) #
+n = int(input('Введите целое число от 3 до 20: ')) # ввод числа
 
-result = get_password(n) #
-print('Пароль:', result) #
+result = get_password(n) # получение пароля
+print('Пароль:', result) # вывод результата на экран
 
 
 
